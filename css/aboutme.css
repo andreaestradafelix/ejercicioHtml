@@ -1,0 +1,42 @@
+body {
+    margin: 20px;
+    background-color: #09311E;}
+
+header{
+    text-align: left;
+    margin-bottom: 40px;}
+
+h1 {
+    color: whitesmoke; 
+    font-family: "Diplomata", serif;}
+
+p{
+    color: black;
+    font-family: "Diplomata", serif;}
+
+.menu li{
+    color: whitesmoke;
+    display: inline-block;
+    margin: 10px;
+}
+
+
+        .aboutme,
+        .hobiies,
+        .music {
+            background-color: #fff;
+            padding: 15px;
+            margin-bottom: 20px;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        figure {
+            text-align: center;
+        }
+
+        figcaption {
+            font-style: italic;
+            margin-top: 8px;
+        }
+       
